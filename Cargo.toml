@@ -1,6 +1,7 @@
 [workspace]
 members=[
     "helloworld",
+    "guessing_game",
 ]
 
 [[bin]]
