@@ -2,6 +2,7 @@
 members=[
     "helloworld",
     "guessing_game",
+    "variables",
 ]
 
 [[bin]]
