@@ -1,20 +1,11 @@
 [workspace]
-members=[
-    "helloworld",
-    "guessing_game",
-    "variables",
-    "functions",
-]
+members = ["helloworld", "guessing_game", "variables", "functions", "branches"]
 
 [[bin]]
-name ="helloworld"
+name = "helloworld"
 path = "helloworld/src/main.rs"
 
 [package]
 name = "learn_rust"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
