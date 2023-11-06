@@ -8,6 +8,7 @@ members = [
     "loops",
     "ownership",
     "slice",
+    "learn_struct",
 ]
 
 [[bin]]
