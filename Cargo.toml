@@ -1,5 +1,12 @@
 [workspace]
-members = ["helloworld", "guessing_game", "variables", "functions", "branches"]
+members = [
+    "helloworld",
+    "guessing_game",
+    "variables",
+    "functions",
+    "branches",
+    "loops",
+]
 
 [[bin]]
 name = "helloworld"
