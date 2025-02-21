@@ -1,0 +1,24 @@
+## stable
+# インデントのスペース数を指定
+tab_spaces = 4
+
+# 1行の最大文字数
+max_width = 160
+
+# メソッドチェーンの折り返し文字数
+chain_width = 160
+
+# matchブロックの最後にカンマを付けるかどうか
+match_block_trailing_comma = true
+
+# コードフォーマットのヒューリスティックレベル (Max=最大限の整形を行う)
+use_small_heuristics = "Max"
+
+# 単一行のif-else文の最大幅
+single_line_if_else_max_width = 160
+
+# 単一行のlet-else文の最大幅
+single_line_let_else_max_width = 160
+
+# 配列要素を1行に収める際の要素数の閾値
+short_array_element_width_threshold = 10
