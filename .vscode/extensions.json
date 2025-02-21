@@ -1,8 +1,11 @@
 {
   "recommendations": [
     "vadimcn.vscode-lldb",
-    "streetsidesoftware.code-spell-checker",
-    "serayuzgur.crates",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "rust-lang.rust-analyzer",
+    "fill-labs.dependi",
+    "dustypomerleau.rust-syntax",
+    "hbenl.vscode-test-explorer",
+    "swellaby.vscode-rust-test-adapter"
   ]
 }
