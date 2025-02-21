@@ -16,10 +16,10 @@ fn main() {
     };
     user1.email = String::from("another_some_email@example.com");
 
-    //user1の一部の値を使用しつつ、新しいUserインスタンスを作成する。
     let user2 = User {
         username: String::from("user02"),
         email: String::from("user02p@example.com"),
+        //user1の一部の値を使用しつつ、新しいUserインスタンスを作成する。
         ..user1
     };
 
