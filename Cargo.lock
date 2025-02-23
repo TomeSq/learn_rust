@@ -39,6 +39,14 @@ name = "helloworld"
 version = "0.1.0"
 
 [[package]]
+name = "learn_enum"
+version = "0.1.0"
+
+[[package]]
+name = "learn_match"
+version = "0.1.0"
+
+[[package]]
 name = "learn_rust"
 version = "0.1.0"
 

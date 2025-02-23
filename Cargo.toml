@@ -9,7 +9,7 @@ members = [
     "ownership",
     "slice",
     "learn_struct",
-    "rectangles",
+    "rectangles", "learn_enum", "learn_match",
 ]
 
 [[bin]]
